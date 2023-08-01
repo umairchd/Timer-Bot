@@ -1,0 +1,2 @@
+﻿start date(dd-MM-yyyy),start time(hh:mm 24hour),end date(dd-MM-yyyy),end time(hh:mm 24hour),interval(n seconds),is in past(1 = yes; 0 = no),number of clicks,kill self
+21-10-2019,12:00,14-10-2019,04:05,5,1,2,false
